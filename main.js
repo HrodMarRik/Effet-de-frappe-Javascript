@@ -1,3 +1,6 @@
+const textElement = document.getElementById('text');
+
 function typing() {
-  //   Code
+  textElement.addEventListener()
+  alert(textElement.textContent);
 }
